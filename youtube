@@ -1,6 +1,5 @@
 [Adblock Plus]
 ! Source: https://raw.githubusercontent.com/nextdns/services/refs/heads/main/services/youtube
-||googlevideo.com^
 ||youtu.be^
 ||youtube^
 ||youtube-nocookie.com^
